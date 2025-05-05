@@ -47,6 +47,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tallesdiniz/tallesdiniz/output/snake.svg" alt="Snake animation" />
-
-###
