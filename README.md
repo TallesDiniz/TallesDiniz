@@ -20,10 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
 
-  ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TallessDiniz&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TallessDiniz&layout=compact&theme=tokyonight)
+ ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TallessDiniz&show_icons=true&theme=tokyonight)
 
 
   
