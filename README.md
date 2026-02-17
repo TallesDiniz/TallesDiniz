@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Talles Diniz and I'm a Web Developer</h2>
+<h2 align="left">Hi 👋! My names Talles Diniz and I'm a Web Developer</h2>
 
 ###
 
@@ -19,6 +19,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tallesdiniz&show_icons=true&locale=en&layout=compact" alt="tallesdiniz" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tallesdiniz&show_icons=true&locale=en" alt="tallesdiniz" /></p>
   
 ###
 
