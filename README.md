@@ -14,8 +14,6 @@ I am a developer in constant evolution, focused on building practical projects t
 ![](https://nirzak-streak-stats.vercel.app/?user=TallesDiniz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TallesDiniz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TallesDiniz&show_icons=true&locale=en&layout=compact" alt="TallesDiniz" /></p>
----
 [![](https://visitcount.itsvg.in/api?id=TallesDiniz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
