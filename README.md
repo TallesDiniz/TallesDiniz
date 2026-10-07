@@ -17,6 +17,17 @@ Like a hobbit leaving the Shire, I am a developer in constant evolution, on a jo
 ### 📜 Scrolls of Data
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
+# ⚔️ Quests Completed
+*Journeys already walked, each one a lesson learned.*
+
+| Quest | What it does | Stack |
+| --- | --- | --- |
+| 💰 **[CryptoNow](https://github.com/TallesDiniz/CryptoNow)** · *The Hoard of Erebor*<br>[🌐 Live demo](https://crypto-now-puce.vercel.app) | Web app to track cryptocurrency market data: search by symbol and see prices, 24h high/low, volume and market cap in BRL. | React · TypeScript · Vite · React Router |
+| 🔗 **[DevDiniz](https://github.com/TallesDiniz/DevDiniz)** · *The Beacons of Gondor*<br>[🌐 Live demo](https://dev-diniz-pink.vercel.app) | Linktree-inspired platform to create and manage your personal links on a single shareable page, with Firebase authentication. | React · TypeScript · Tailwind CSS · Firebase |
+| 🏦 **[ByteBank](https://github.com/TallesDiniz/bytebank-jdbc)** · *The Treasury of Minas Tirith*<br>[🌐 Live demo](https://bytebank-jdbc.vercel.app) | Full stack banking simulation (accounts, deposits, withdrawals, transfers). I built the React frontend, added the Spring Boot REST API and handled the deployment. Java + JDBC backend by [@Pgustavols](https://github.com/Pgustavols). | React · TypeScript · Tailwind CSS · Spring Boot · PostgreSQL |
+| 🗳️ **[ODS Fatec MC](https://github.com/TallesDiniz/ods-fatec-mc)** · *The Council of Elrond*<br>[🌐 Live demo](https://ods-fatec-mc.vercel.app) | Interactive voting and certificate system for the SDG (ODS) Conference at Fatec Mogi das Cruzes. Team project, where I contributed to the frontend. | React · JavaScript · CSS Modules |
+| 🐾 **[ZoeShop](https://github.com/TallesDiniz/ZoeShop)** · *The Market of Bree*<br>[🌐 Live demo](https://zoe-shop.vercel.app) | Responsive pet shop e-commerce with product catalog, shopping cart and checkout flow with form validation. | React · TypeScript · Tailwind CSS · Context API |
+
 # 📖 GitHub Stats: The Red Book of Westmarch
 *A chronicle of every step of the journey.*
 
