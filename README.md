@@ -1,5 +1,12 @@
+<div align="center">
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3c3836,100:d79921&height=200&section=header&text=Talles%20Diniz&fontSize=50&fontColor=ebdbb2&fontAlignY=38&desc=Adventurer%20of%20the%20code&descSize=18&descAlignY=58)
+
 # 🧙‍♂️ Hello, I'm Talles 👋
-*Adventurer of the code, forging my path one commit at a time.*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=D79921&center=true&vCenter=true&width=600&lines=Forging+my+path+one+commit+at+a+time;Bridging+business+and+dev;Data+%26+Project+Management+in+the+making)](https://git.io/typing-svg)
+
+</div>
 
 # 🗺️ About Me:
 Like a hobbit leaving the Shire, I am a developer in constant evolution, on a journey of building practical projects to sharpen my programming skills and problem-solving abilities.<br><br>Currently, I'm an intern at **Grupo JCA**, a holding of bus transportation companies, working at the crossroads of data and project management. I track down bugs in a system, act as a messenger between the business area and the development team, and work with data using Excel, Google Sheets and Power BI.<br><br>My quest is to grow into a project manager and, one day, a CTO, building scalable and impactful solutions along the way.
