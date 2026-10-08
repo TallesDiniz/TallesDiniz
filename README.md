@@ -39,12 +39,22 @@ Like a hobbit leaving the Shire, I am a developer in constant evolution, on a jo
 | 🗳️ **[ODS Fatec MC](https://github.com/TallesDiniz/ods-fatec-mc)** · *The Council of Elrond*<br>[🌐 Live demo](https://ods-fatec-mc.vercel.app) | Interactive voting and certificate system for the SDG (ODS) Conference at Fatec Mogi das Cruzes. Team project, where I contributed to the frontend. | React · JavaScript · CSS Modules |
 | 🐾 **[ZoeShop](https://github.com/TallesDiniz/ZoeShop)** · *The Market of Bree*<br>[🌐 Live demo](https://zoe-shop.vercel.app) | Responsive pet shop e-commerce with product catalog, shopping cart and checkout flow with form validation. | React · TypeScript · Tailwind CSS · Context API |
 
+---
+
 # 📖 GitHub Stats: The Red Book of Westmarch
 *A chronicle of every step of the journey.*
 
-![](https://github-readme-stats.vercel.app/api?username=TallesDiniz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TallesDiniz&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TallesDiniz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TallesDiniz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TallesDiniz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TallesDiniz&theme=gruvbox&hide_border=false" />
+</p>
+
+---
+
+<div align="center">
 
 ### 🧙‍♂️ Words of the Wise (Random Dev Quote)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
@@ -52,5 +62,9 @@ Like a hobbit leaving the Shire, I am a developer in constant evolution, on a jo
 *Travelers who have passed through the gates:*
 
 [![](https://visitcount.itsvg.in/api?id=TallesDiniz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3c3836,100:d79921&height=120&section=footer)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
