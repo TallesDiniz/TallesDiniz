@@ -11,6 +11,10 @@
 # 🗺️ About Me:
 Like a hobbit leaving the Shire, I am a developer in constant evolution, on a journey of building practical projects to sharpen my programming skills and problem-solving abilities.<br><br>Currently, I'm an intern at **Grupo JCA**, a holding of bus transportation companies, working at the crossroads of data and project management. I track down bugs in a system, act as a messenger between the business area and the development team, and work with data using Excel, Google Sheets and Power BI.<br><br>My quest is to grow into a project manager and, one day, a CTO, building scalable and impactful solutions along the way.
 
+## 🧭 Current Quest
+- 📚 **Learning:** Power BI (Santander Bootcamp) and AI for Data (IBM Bootcamp)
+- 💬 **Ask me about:** React and TypeScript frontends, tracking down bugs, bridging business and development teams, Power BI, Excel and Google Sheets
+
 ## 🔮 Palantír (Reach Me):
 *Seeing stones connect distant lands. Find me on any of them.*
 
